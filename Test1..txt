@@ -3,10 +3,7 @@ Test 1 changed
 Changed by Sushant
 Changed by Sushant again
 Changed by Sushant again 1
+
 	-- Pankaj Changes
-<<<<<<< HEAD
-Pankaj 1
-=======
--------------------------
-Sushant 1
->>>>>>> 7d87e5d51079fe1e5e2fa3c3d311ee66f9d1ce8e
+	-- Sushant Changes
+
